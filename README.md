@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Hello world">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=frolicbrat&label=Profile%20views&color=0e75b6&style=flat" alt="frolicbrat" /></p>
 
@@ -9,15 +8,15 @@
 
 - 👨‍💻 All of my projects are available at [FrolicBrat](FrolicBrat)
 
-- 💬 Ask me about **Javascript,C**
+- 💬 Ask me about **HTML**, **CSS**, **Javascript**, **React** **....** **everything Frontend**.
 
 - 📫 How to reach me **Shashwat1195@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-gangwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-gangwar/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shashwat1195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shashwat1195/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-gangwar/" target="blank"><img align="center" <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a>
+<a href="https://www.leetcode.com/https://leetcode.com/shashwat1195/" target="blank"><img align="center" src="https://img.shields.io/badge/-Leetcode-0D1117?style=for-the-badge&logo=leetcode&logoColor=0077b5"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
